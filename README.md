@@ -16,6 +16,6 @@ Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecno
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projetoa através
+Você pode visualizar o layout do projeto através
 [desse link](<https://www.figma.com/file/XAQsK38JCl6j1YvTaW4jk0/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)-(Copy)?type=design&node-id=0%3A1&t=7nIwbVnIhHQAyh75-1>).
 É necessário ter uma conta no [Figma](https://www.figma.com)
